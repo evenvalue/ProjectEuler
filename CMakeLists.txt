@@ -4,3 +4,4 @@ project(ProjectEuler)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(p1 P1/main.cpp)
+add_executable(p2 P2/main.cpp)
